@@ -1,7 +1,7 @@
 # File_sorter
-# 🗂 Auto Folder Sorter
+#  Auto Folder Sorter
 
-A Python-based automation script that organizes files in a target folder (like Downloads) into categorized subfolders based on file extensions. This project demonstrates the use of scripting for configuration tasks and file system management — a key skill for configuration engineers.
+A Python-based automation script that organizes files in a target folder (like Downloads) into categorized subfolders based on file extensions. This project demonstrates the use of scripting for configuration tasks and file system management.
 
 ---
 
