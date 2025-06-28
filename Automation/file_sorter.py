@@ -47,4 +47,4 @@ def sort_files():
 
 if __name__ == "__main__":
     sort_files()
-    print("\n✅ Folder organization completed.")
+    print("\n Folder organization completed.")
